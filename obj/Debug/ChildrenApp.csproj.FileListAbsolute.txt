@@ -1,0 +1,13 @@
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.AssemblyReference.cache
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.starting.resources
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.cache
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.CoreCompileInputs.cache
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+C:\Users\SHAHAD\source\repos\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.CalWindowcs.resources
